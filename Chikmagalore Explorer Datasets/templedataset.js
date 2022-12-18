@@ -8,7 +8,8 @@ export const temples = [
     HowToReach: "Put image from ckm to this place.",
     Location:
       "https://www.google.com/maps/place/Samse+Ganapati+temple/@13.19577,75.3354728,15z/data=!4m5!3m4!1s0x0:0x962a927ebc08c7d1!8m2!3d13.1957698!4d75.3354869",
-    Blog: "https://malnadstays.com/a-sojourn-to-the-flavorful-tea-gardens-of-samse/",
+    UsefulLinks:
+      "https://malnadstays.com/a-sojourn-to-the-flavorful-tea-gardens-of-samse/",
     TemplePic1: "",
     TemplePic2: "",
     TemplePic3: "",
@@ -24,7 +25,7 @@ export const temples = [
     HowToReach: "Put image from ckm to this place.",
     Location:
       "https://www.google.com/maps/place/Sri+Deviramma+Temple/@13.4178499,75.791567,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbadeb2679a3e69:0xe23a005cececcb6c!8m2!3d13.4178499!4d75.7937557",
-    Blog: "https://utsav.gov.in/view-event/devirammajatre-bindiga-1",
+    UsefulLinks: "https://utsav.gov.in/view-event/devirammajatre-bindiga-1",
     TemplePic1: "",
     TemplePic2: "",
     TemplePic3: "",
@@ -40,7 +41,8 @@ export const temples = [
     HowToReach: "Put image from ckm to this place.",
     Location:
       "https://www.google.com/maps/place/Sri+Sharadamba+Temple/@13.4161453,75.2342279,15z/data=!3m1!4b1!4m5!3m4!1s0x3bbb4163302b1b15:0x60508b7cede515a8!8m2!3d13.4161459!4d75.2511368",
-    Blog: "https://www.inditales.com/sringeri-sharada-peetham-sharadamba-temple/",
+    UsefulLinks:
+      "https://www.inditales.com/sringeri-sharada-peetham-sharadamba-temple/",
     TemplePic1: "",
     TemplePic2: "",
     TemplePic3: "",
@@ -56,7 +58,8 @@ export const temples = [
     HowToReach: "Put image from ckm to this place.",
     Location:
       "https://www.google.com/maps/place/Sri+Kalabhairaveshwara+Swami+Gudi/@13.0615687,75.5362177,17z/data=!3m1!4b1!4m5!3m4!1s0x3ba4d20d4f74d673:0xbedbece7539185a9!8m2!3d13.061567!4d75.5384681",
-    Blog: "https://vanamalaarts.org/travelogue/kalabhairava-temple-devaramane-mudigere-chikkamagalur-district-karnataka/",
+    UsefulLinks:
+      "https://vanamalaarts.org/travelogue/kalabhairava-temple-devaramane-mudigere-chikkamagalur-district-karnataka/",
     TemplePic1: "",
     TemplePic2: "",
     TemplePic3: "",
@@ -72,7 +75,8 @@ export const temples = [
     HowToReach: "Put image from ckm to this place.",
     Location:
       "https://www.google.com/maps/place/Adhishakthyathmaka+Sri+Annapoorneshwari+Ammanavara+Gudi/@13.2765336,75.3428066,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbb37e060ccf5b3:0x74031e2d5f52c0ca!8m2!3d13.2765322!4d75.3428182",
-    Blog: "https://chikkamagaluru.nic.in/en/tourist-place/sri-ksetra-horanadu/",
+    UsefulLinks:
+      "https://chikkamagaluru.nic.in/en/tourist-place/sri-ksetra-horanadu/",
     TemplePic1: "",
     TemplePic2: "",
     TemplePic3: "",
